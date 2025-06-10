@@ -1,0 +1,10 @@
+# Requisitos para ejecutar la Streamlit App
+# Ejecuta en tu terminal: pip install -r requirements.txt
+
+streamlit
+streamlit-option-menu
+pandas
+openpyxl
+pdfplumber
+pydeck
+pandas
